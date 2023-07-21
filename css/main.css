@@ -6,6 +6,8 @@ main {
   gap: 5px;
   justify-content: center;
   align-items: center;
+  font-weight: bold;
+  font-size: 25px;
 }
 
 .board-row {
